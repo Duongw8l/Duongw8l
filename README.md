@@ -1,5 +1,7 @@
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&size=24&pause=1000&color=00FF00&width=435&lines=I'm+Duongw)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Duongw;+Khong+Hoc+Thi+An+💩&color=00FF00" />
+</h1>
+ 
 
 
 
