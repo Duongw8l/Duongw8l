@@ -1,5 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Duongw;+Khong+Hoc+Thi+An+💩&color=00FF00" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Duongw&color=00FF00" />
+</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Khong+Hoc+Thi+An+💩&color=00FF00" />
 </h1>
  
 
