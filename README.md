@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&size=24&pause=1000&color=00FF00&width=435&lines=I'm+Duongw)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&size=24&pause=1000&color=00FF00&width=435&lines=I'm+Duongw)
 
 
 
